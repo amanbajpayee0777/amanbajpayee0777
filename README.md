@@ -11,7 +11,7 @@ Languages: Python, C#, JavaScript, Java<br>
 Frameworks: ASP.NET, Flask, Django<br>
 Tools: Docker, Git, Power BI, Tableau<br>
 ML Libraries: TensorFlow, PyTorch, Scikit-learn <br>
-.. and follow my LinkedIn for me information: https://www.linkedin.com/in/aman-bajpayee/
+.. and follow my LinkedIn for more information: https://www.linkedin.com/in/aman-bajpayee/
 
 ## 📈 GitHub Stats
 
