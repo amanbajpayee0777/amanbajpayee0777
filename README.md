@@ -15,9 +15,12 @@ ML Libraries: TensorFlow, PyTorch, Scikit-learn <br>
 
 ## 📈 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanbajpayee0777&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbajpayee0777&layout=compact&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbajpayee0777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Aman's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanbajpayee0777&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 🌟 Featured Projects<br>
 💡 Real-time Reddit Data Analytics: Built a real-time analytics dashboard using Kafka and PySpark.<br>
