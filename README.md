@@ -15,8 +15,8 @@ ML Libraries: TensorFlow, PyTorch, Scikit-learn
 
 🌟 Featured Projects
 💡 Real-time Reddit Data Analytics: Built a real-time analytics dashboard using Kafka and PySpark.
-🖼️ Image Captioning with Deep Learning: Implemented a DNN using LSTM units and Google’s Inception-Resnet-v2.
-📊 Customer Pattern Analysis: Executed customer segmentation with clustering techniques.
+  🖼️ Image Captioning with Deep Learning: Implemented a DNN using LSTM units and Google’s Inception-Resnet-v2.
+    📊 Customer Pattern Analysis: Executed customer segmentation with clustering techniques.
 
 📫 Get in Touch
 Email: amanbajpayee97@gmail.com
