@@ -1,4 +1,4 @@
-Welcome to my GitHub! I'm Aman, a Data Scientist and Software Engineer, passionate about machine learning and backend development and I have almost 4 years of professional experience in this. Recently graduated with a Master's in Computer Science at Purdue University. 
+Welcome to my GitHub! I'm Aman, a dedicated Data Scientist and Software Engineer with nearly 4 years of professional experience in machine learning and backend development. I recently graduated with a Master’s in Computer Science from Purdue University. My passion lies in creating impactful solutions and exploring innovative technologies 
 
 ## 🚀 About Me<br>
 📚 Master’s in Computer Science @ Purdue University<br>
