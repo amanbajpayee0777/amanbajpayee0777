@@ -15,11 +15,7 @@ ML Libraries: TensorFlow, PyTorch, Scikit-learn <br>
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbajpayee0777&layout=compact&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbajpayee0777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Aman's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanbajpayee0777&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 🌟 Featured Projects<br>
